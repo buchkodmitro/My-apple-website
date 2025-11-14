@@ -1,0 +1,341 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.header {
+    background-color: #F6F6F6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.header a {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 0.75);
+    transition: 0.5s;
+}
+
+.header a:hover {
+    font-size: 18px;
+}
+
+.header img {
+    width: 15px;
+    height: 19px;
+}
+
+.iPhone-17-Pro {
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 45px;
+}
+
+.iPhone-17-Pro img {
+    width: 80%;
+    margin-top: 100px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 95px;
+    transition: 0.4s;
+}
+
+.iPhone-17-Pro a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #5D57FF;
+    padding: 10px 20px 10px 20px;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.iPhone-17-Pro a:hover {
+    background-color: #8587FE;
+    padding: 15px 25px 15px 25px;
+    font-size: 20px
+}
+
+.iPhone-17-Pro img:hover {
+    width: 90%;
+}
+
+.iPhone-17-Pro p {
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.iPhone-17-Pro h1 {
+    font-size: 42px
+}
+
+.iPhone-Air h1 {
+    font-size: 42px;
+    
+}
+
+.iPhone-Air a:hover {
+    background-color: #8587FE;
+    padding: 15px 25px 15px 25px;
+    font-size: 20px
+}
+
+.iPhone-Air {
+    text-align: center;
+    background-color: #F3F3F3;
+    padding-top: 35px;
+    margin-top: 15px;
+}
+
+.iPhone-Air img {
+    margin-top: 100px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 95px;
+}
+
+.iPhone-Air p {
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+
+.iPhone-Air a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #5D57FF;
+    padding: 10px 20px 10px 20px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+.iPhone-17 h1 {
+    font-size: 42px;
+    
+}
+
+.iPhone-17 a:hover {
+    background-color: #8587FE;
+    padding: 15px 25px 15px 25px;
+    font-size: 20px
+}
+
+
+.iPhone-17 {
+    text-align: center;
+    background-color: #F3F3F3;
+    padding-top: 35px;
+    margin-top: 15px;
+}
+
+.iPhone-17 img {
+    margin-top: 100px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 95px;
+    width: 80%;
+    transition: 0.4s;
+}
+
+.iPhone-17 img:hover {
+    width: 90%;
+}
+
+
+.iPhone-17 p {
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+
+.iPhone-17 a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #5D57FF;
+    padding: 10px 20px 10px 20px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+
+
+.Watch a:hover {
+    background-color: #8587FE;
+    padding: 15px 25px 15px 25px;
+    font-size: 20px
+}
+
+.Watch h1 {
+    font-size: 42px;
+    
+}
+
+.Watch h5 {
+    font-size: 18px;
+}
+
+.Watch {
+    text-align: center;
+    background-color: #F3F3F3;
+    padding-top: 22px;
+    margin-top: 10px;
+}
+
+.Watch img {
+    margin-top: 100px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 95px;
+    width: 80%;
+    transition: 0.4s;
+}
+
+.Watch img:hover {
+    width: 90%;
+}
+
+.Watch p {
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+.Watch a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #5D57FF;
+    padding: 10px 20px 10px 20px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+.AirPods-4 {
+    background: url(https://i.postimg.cc/MT4R1S0n/media-lifestyle-cyk4qt05xic2-xlarge-1.png) 
+        no-repeat center center / cover;
+    padding: 140px;
+    text-align: center;
+
+}
+
+.AirPods-4 h1 {
+    color: #99D5FF;
+    font-size: 76px;
+}
+
+.AirPods-4 p {
+    color: #D0FFFA;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.AirPods-4 a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #5D57FF;
+    padding: 10px 20px 10px 20px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+.AirPods-4 a:hover {
+    background-color: #8587FE;
+    padding: 15px 25px 15px 25px;
+    font-size: 20px
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 40px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.card {
+  background: #E5E5E5;
+  border-radius: 12px;
+  text-align: center;
+  padding: 30px 20px;
+  
+}
+
+.card img {
+  width: 70%;
+  margin: 15px 0;
+}
+
+.card h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.card p {
+  color: #555;
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+.container a {
+  background-color: #5D57FF;
+  color: #fff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.container a:hover {
+  background-color: #8587FE;
+}
+
+.blue {
+    background: #F3F3F3;
+background: linear-gradient(0deg, rgba(243, 243, 243, 1) 0%, rgba(174, 224, 255, 1) 100%);
+}
+
+.black {
+  background-color: #000;
+  color: #fff;
+}
+
+.black button {
+  background-color: #4b6cff;
+}
+
+.air {
+  color: #3f89ff;
+  font-weight: 600;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    font-size: 0.9em;
+    color: #666;
+    border-top: 1px solid #ddd;
+    background-color: #F3F3F3;
+}
+
+footer a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #666;
+    transition: 0.5s;
+}
+
+footer a:hover {
+    color: black;
+}
